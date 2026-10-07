@@ -9,7 +9,7 @@ const products = [
   {file:'08-portable-black-shisha.png', title:'Black Portable', category:'special'},
   {file:'09-black-gold-crystal-hookah.png', title:'Black Gold Tower', category:'gold'},
   {file:'10-compact-white-pink-shisha.png', title:'Pearl Compact', category:'special'},
-  {file:'desi.png', title:'Desi Hookah', category:'special'},
+  {file:'Desi.png', title:'Desi Hookah', category:'special'},
   {file:'12-blue-spring-smoke-hookah.png', title:'Blue Spring Smoke', category:'blue'},
   {file:'13-red-glass-hookah.png', title:'Crimson Glass', category:'red'},
   {file:'14-red-crystal-longstem-hookah.png', title:'Ruby Longstem', category:'red'},
