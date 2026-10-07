@@ -18,6 +18,7 @@ const products = [
   {file:'17-blue-angular-hookah.png', title:'Blue Angular', category:'blue'},
   {file:'18-red-amber-glass-hookah.png', title:'Amber Red Classic', category:'red'},
   {file:'19-blue-spring-marble-hookah.png', title:'Blue Marble Spring', category:'blue'},
+  {file:'simba.png', title:'Simba', category:'special'},
   
 ];
 
