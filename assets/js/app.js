@@ -19,8 +19,6 @@ const products = [
   {file:'18-red-amber-glass-hookah.png', title:'Amber Red Classic', category:'red'},
   {file:'19-blue-spring-marble-hookah.png', title:'Blue Marble Spring', category:'blue'},
   {file:'simba.png', title:'Simba', category:'special'},
- 
-  
 ];
 
 const gallery = document.querySelector('#gallery');
