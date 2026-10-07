@@ -9,7 +9,7 @@ const products = [
   {file:'08-portable-black-shisha.png', title:'Black Portable', category:'special'},
   {file:'09-black-gold-crystal-hookah.png', title:'Black Gold Tower', category:'gold'},
   {file:'10-compact-white-pink-shisha.png', title:'Pearl Compact', category:'special'},
-  {file:'11-blue-diamond-crystal-hookah.png', title:'Electric Blue Crystal', category:'blue'},
+  
   {file:'12-blue-spring-smoke-hookah.png', title:'Blue Spring Smoke', category:'blue'},
   {file:'13-red-glass-hookah.png', title:'Crimson Glass', category:'red'},
   {file:'14-red-crystal-longstem-hookah.png', title:'Ruby Longstem', category:'red'},
@@ -18,7 +18,7 @@ const products = [
   {file:'17-blue-angular-hookah.png', title:'Blue Angular', category:'blue'},
   {file:'18-red-amber-glass-hookah.png', title:'Amber Red Classic', category:'red'},
   {file:'19-blue-spring-marble-hookah.png', title:'Blue Marble Spring', category:'blue'},
-  {file:'20-white-marble-signature-hookah.png', title:'Marble Hell Edition', category:'special'}
+  
 ];
 
 const gallery = document.querySelector('#gallery');
